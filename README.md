@@ -24,7 +24,7 @@ In this demo, we'll showcase how to set up a Spring Cloud Config Server and how 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iammahesh123/spring-cloud-task-demo.git
+git clone https://github.com/iammahesh123/spring-cloud-bootstrapping.git
 ```
 2. Navigate to the project directory:
  ```bash
